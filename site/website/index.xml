@@ -27,7 +27,7 @@
   <createdDate>2017-1-31T16:18:14.000Z</createdDate>
   <createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
   <lastModifiedDate>2021-03-31T18:08:03.196Z</lastModifiedDate>
-  <lastModifiedDate_dt>2022-05-13T13:00:09.375Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2022-05-13T13:00:26.189Z</lastModifiedDate_dt>
   <title_t>Editorial</title_t>
   <hero_text_html>&lt;p&gt;Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.&lt;/p&gt;</hero_text_html>
   <hero_title_html><![CDATA[<h1>Hi, I&rsquo;m Editorial</h1>
@@ -68,12 +68,12 @@
         <file-name>4f7d8185-e442-4656-94a5-3f7cb15d7e6a.xml</file-name>
         <merge-strategy>inherit-levels</merge-strategy>
         <createdDate_dt>2022-05-13T13:00:09.374Z</createdDate_dt>
-        <lastModifiedDate_dt>2022-05-13T13:00:09.374Z</lastModifiedDate_dt>
+        <lastModifiedDate_dt>2022-05-13T13:00:26.189Z</lastModifiedDate_dt>
         <objectId>4f7d8185-e442-4656-94a5-3f7cb15d7e6a</objectId>
         <disabled>false</disabled>
         <icon_s>fa-closed-captioning far</icon_s>
         <title_t>Feature Title</title_t>
-        <body_html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</body_html>
+        <body_html><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Make our edits</p>]]></body_html>
       </component>
     </item>
     <item datasource="features">
